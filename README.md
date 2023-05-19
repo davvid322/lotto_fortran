@@ -1,9 +1,9 @@
 # lotto_longshot
 This is a small program that simulates a lottery, similar to the Lotto 6/49 in Canada.
 I created this for two reasons:
-1 - To re-learn the Fortran programming language (though modern Fortran is way different than
+- To re-learn the Fortran programming language (though modern Fortran is way different than
 the Fortran IV / 77 I learned in my first university computer science course many decades ago), and
-2 - To show the statistical futility of playing lotteries.
+- To show the statistical futility of playing lotteries.
 ### Usage Notes
 - This is a text-only program that runs in a terminal.
 - The user gets to choose 6 numbers between 1 and 49, or they can let the system
