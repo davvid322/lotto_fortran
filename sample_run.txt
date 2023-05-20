@@ -1,0 +1,92 @@
+david@Linux-PC:~/Documents/fortranprojects/lotto_fortran$ ./lotto_longshot
+ Welcome to Lotto Longshot - a lesson in futility
+ ------------------------------------------------
+ -- For up to 100 simulated games, details of each game will be shown.
+ -- For more than 100 games, only summary statistics are listed.
+ -- The number of times each ball came up is shown at the end (fairness check).
+
+ Press y + Enter for a random quick pick, or any other letter to choose your own set of numbers:
+y
+ How many games to you want to run?
+100000000
+Running simulation for : 100,000,000 games at 20230520 - 134304.740
+Numbers chosen :  2 15 17 35 44 48
+ ...Running game : 10,000,000
+ ...Running game : 20,000,000
+ ...Running game : 30,000,000
+ ...Running game : 40,000,000
+ ...Running game : 50,000,000
+ ...Running game : 60,000,000
+ ...Running game : 70,000,000
+ ...Running game : 80,000,000
+ ...Running game : 90,000,000
+ ...Running game : 100,000,000
+Simulation Ended   : 20230520 - 134317.110
+ FYI, here is a list of how often each ball was chosen
+Ball  1 was drawn 12,250,229 times, =    2.04%
+Ball  2 was drawn 12,240,268 times, =    2.04%
+Ball  3 was drawn 12,251,470 times, =    2.04%
+Ball  4 was drawn 12,241,030 times, =    2.04%
+Ball  5 was drawn 12,245,449 times, =    2.04%
+Ball  6 was drawn 12,244,154 times, =    2.04%
+Ball  7 was drawn 12,249,063 times, =    2.04%
+Ball  8 was drawn 12,247,163 times, =    2.04%
+Ball  9 was drawn 12,242,651 times, =    2.04%
+Ball 10 was drawn 12,243,327 times, =    2.04%
+Ball 11 was drawn 12,245,157 times, =    2.04%
+Ball 12 was drawn 12,246,298 times, =    2.04%
+Ball 13 was drawn 12,247,746 times, =    2.04%
+Ball 14 was drawn 12,247,600 times, =    2.04%
+Ball 15 was drawn 12,247,134 times, =    2.04%
+Ball 16 was drawn 12,243,888 times, =    2.04%
+Ball 17 was drawn 12,248,191 times, =    2.04%
+Ball 18 was drawn 12,245,008 times, =    2.04%
+Ball 19 was drawn 12,245,983 times, =    2.04%
+Ball 20 was drawn 12,239,200 times, =    2.04%
+Ball 21 was drawn 12,237,848 times, =    2.04%
+Ball 22 was drawn 12,255,181 times, =    2.04%
+Ball 23 was drawn 12,245,326 times, =    2.04%
+Ball 24 was drawn 12,241,575 times, =    2.04%
+Ball 25 was drawn 12,247,295 times, =    2.04%
+Ball 26 was drawn 12,242,615 times, =    2.04%
+Ball 27 was drawn 12,233,471 times, =    2.04%
+Ball 28 was drawn 12,242,509 times, =    2.04%
+Ball 29 was drawn 12,249,123 times, =    2.04%
+Ball 30 was drawn 12,248,261 times, =    2.04%
+Ball 31 was drawn 12,245,391 times, =    2.04%
+Ball 32 was drawn 12,246,377 times, =    2.04%
+Ball 33 was drawn 12,241,526 times, =    2.04%
+Ball 34 was drawn 12,243,382 times, =    2.04%
+Ball 35 was drawn 12,250,796 times, =    2.04%
+Ball 36 was drawn 12,241,367 times, =    2.04%
+Ball 37 was drawn 12,239,495 times, =    2.04%
+Ball 38 was drawn 12,247,301 times, =    2.04%
+Ball 39 was drawn 12,249,086 times, =    2.04%
+Ball 40 was drawn 12,239,594 times, =    2.04%
+Ball 41 was drawn 12,241,423 times, =    2.04%
+Ball 42 was drawn 12,243,617 times, =    2.04%
+Ball 43 was drawn 12,246,972 times, =    2.04%
+Ball 44 was drawn 12,244,617 times, =    2.04%
+Ball 45 was drawn 12,250,212 times, =    2.04%
+Ball 46 was drawn 12,238,993 times, =    2.04%
+Ball 47 was drawn 12,244,709 times, =    2.04%
+Ball 48 was drawn 12,249,050 times, =    2.04%
+Ball 49 was drawn 12,241,885 times, =    2.04%
+Runtime seconds :     12.36956
+Runs per second : 8,084,359
+You picked  0 correct 43,590,891 times  --> Payoff = $0
+You picked  1 correct 41,303,872 times  --> Payoff = $0
+You picked  2 correct 13,240,323 times  --> Payoff = $39,720,969
+You picked  3 correct 1,765,922 times  --> Payoff = $17,659,220
+You picked  4 correct 97,205 times  --> Payoff = $7,776,400
+You picked  5 correct 1,776 times  --> Payoff = $4,440,000
+You picked  6 correct 11 times  --> Payoff = $99,000,000
+Total cost of tickets : $300,000,000
+Total money won       : $168,596,589
+Total profit / loss   : $-131,403,411
+Profit / loss percent :         -43.80%
+ *** Loser!  I hoped you learned something from this! ***
+
+ ******************** End Simulation ********************
+
+
