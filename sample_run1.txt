@@ -1,0 +1,134 @@
+david@Linux-PC:~/Documents/fortranprojects/lotto_fortran$ ./lotto_longshot
+ Welcome to Lotto Longshot - a lesson in futility
+ ------------------------------------------------
+ -- For up to 100 simulated games, details of each game will be shown.
+ -- For more than 100 games, only summary statistics are listed.
+ -- The number of times each ball came up is shown at the end (fairness check).
+
+ Press y + Enter for a random quick pick, or any other letter to choose your own set of numbers:
+n
+Enter  6 numbers from  1 to 49
+5 10 15 20 25 30
+ How many games to you want to run?
+50
+Running simulation for : 50 games at 20230522 - 084653.811
+Numbers chosen :  5 10 15 20 25 30
+Game draw :  7 22 23 29 34 49   You got  0 right
+Game draw :  4 31 33 37 41 49   You got  0 right
+Game draw :  1  4 15 24 27 46   You got  1 right
+Game draw :  2  9 20 29 33 35   You got  1 right
+Game draw : 12 26 28 29 38 39   You got  0 right
+Game draw :  1  5 18 23 31 48   You got  1 right
+Game draw :  2  3  7 20 22 26   You got  1 right
+Game draw :  8 17 34 35 38 43   You got  0 right
+Game draw :  5  9 21 31 32 41   You got  1 right
+Game draw :  1  5  8 15 18 31   You got  2 right
+Game draw : 14 18 26 30 32 48   You got  1 right
+Game draw :  2  4 13 27 33 35   You got  0 right
+Game draw :  4 10 12 33 47 49   You got  1 right
+Game draw :  6  7  9 19 24 36   You got  0 right
+Game draw : 22 26 33 39 42 46   You got  0 right
+Game draw :  8 20 31 33 44 47   You got  1 right
+Game draw :  2 16 25 40 44 46   You got  1 right
+Game draw :  2 21 26 33 34 49   You got  0 right
+Game draw :  4  8 16 25 44 49   You got  1 right
+Game draw : 23 25 34 40 44 47   You got  1 right
+Game draw :  9 17 18 29 30 47   You got  1 right
+Game draw :  8 11 26 28 47 48   You got  0 right
+Game draw :  2 10 11 19 27 30   You got  2 right
+Game draw :  6 19 20 21 30 38   You got  2 right
+Game draw :  5  9 15 25 28 39   You got  3 right
+Game draw :  6 12 18 39 44 47   You got  0 right
+Game draw : 11 17 20 25 26 37   You got  2 right
+Game draw :  8 14 24 29 36 42   You got  0 right
+Game draw :  1  6 22 30 42 49   You got  1 right
+Game draw : 22 31 32 35 45 46   You got  0 right
+Game draw : 27 32 37 39 46 49   You got  0 right
+Game draw :  2 15 16 32 34 44   You got  1 right
+Game draw :  4  6 10 22 37 47   You got  1 right
+Game draw :  1 19 23 31 47 49   You got  0 right
+Game draw :  6  7 22 23 26 49   You got  0 right
+Game draw :  2 17 19 26 39 44   You got  0 right
+Game draw : 10 11 17 36 42 48   You got  1 right
+Game draw :  2 14 15 30 35 48   You got  2 right
+Game draw :  5 28 31 33 37 40   You got  1 right
+Game draw :  9 18 22 30 35 40   You got  1 right
+Game draw :  3 10 11 19 28 31   You got  1 right
+Game draw :  2  3  8 25 30 47   You got  2 right
+Game draw :  8 18 19 31 40 47   You got  0 right
+Game draw :  6  9 17 20 44 46   You got  1 right
+Game draw :  4  7  9 20 28 32   You got  1 right
+Game draw : 15 19 20 24 27 44   You got  2 right
+Game draw :  3 18 20 22 29 45   You got  1 right
+Game draw :  2 12 13 23 38 42   You got  0 right
+Game draw : 26 29 32 33 41 46   You got  0 right
+Game draw : 16 18 28 32 33 34   You got  0 right
+Simulation Ended   : 20230522 - 084653.811
+ FYI, here is a list of how often each ball was chosen
+Ball  1 was drawn 5 times, =    1.67%
+Ball  2 was drawn 11 times, =    3.67%
+Ball  3 was drawn 4 times, =    1.33%
+Ball  4 was drawn 7 times, =    2.33%
+Ball  5 was drawn 5 times, =    1.67%
+Ball  6 was drawn 7 times, =    2.33%
+Ball  7 was drawn 5 times, =    1.67%
+Ball  8 was drawn 8 times, =    2.67%
+Ball  9 was drawn 8 times, =    2.67%
+Ball 10 was drawn 5 times, =    1.67%
+Ball 11 was drawn 5 times, =    1.67%
+Ball 12 was drawn 4 times, =    1.33%
+Ball 13 was drawn 2 times, =    0.67%
+Ball 14 was drawn 3 times, =    1.00%
+Ball 15 was drawn 6 times, =    2.00%
+Ball 16 was drawn 4 times, =    1.33%
+Ball 17 was drawn 6 times, =    2.00%
+Ball 18 was drawn 9 times, =    3.00%
+Ball 19 was drawn 8 times, =    2.67%
+Ball 20 was drawn 9 times, =    3.00%
+Ball 21 was drawn 3 times, =    1.00%
+Ball 22 was drawn 9 times, =    3.00%
+Ball 23 was drawn 6 times, =    2.00%
+Ball 24 was drawn 4 times, =    1.33%
+Ball 25 was drawn 6 times, =    2.00%
+Ball 26 was drawn 10 times, =    3.33%
+Ball 27 was drawn 5 times, =    1.67%
+Ball 28 was drawn 7 times, =    2.33%
+Ball 29 was drawn 7 times, =    2.33%
+Ball 30 was drawn 8 times, =    2.67%
+Ball 31 was drawn 10 times, =    3.33%
+Ball 32 was drawn 8 times, =    2.67%
+Ball 33 was drawn 10 times, =    3.33%
+Ball 34 was drawn 6 times, =    2.00%
+Ball 35 was drawn 6 times, =    2.00%
+Ball 36 was drawn 3 times, =    1.00%
+Ball 37 was drawn 5 times, =    1.67%
+Ball 38 was drawn 4 times, =    1.33%
+Ball 39 was drawn 6 times, =    2.00%
+Ball 40 was drawn 5 times, =    1.67%
+Ball 41 was drawn 3 times, =    1.00%
+Ball 42 was drawn 5 times, =    1.67%
+Ball 43 was drawn 1 times, =    0.33%
+Ball 44 was drawn 9 times, =    3.00%
+Ball 45 was drawn 2 times, =    0.67%
+Ball 46 was drawn 7 times, =    2.33%
+Ball 47 was drawn 10 times, =    3.33%
+Ball 48 was drawn 5 times, =    1.67%
+Ball 49 was drawn 9 times, =    3.00%
+Runtime seconds :      0.00061
+Runs per second : 81,566
+You picked  0 correct 20 times  --> Payoff = $0
+You picked  1 correct 22 times  --> Payoff = $0
+You picked  2 correct 7 times  --> Payoff = $21
+You picked  3 correct 1 times  --> Payoff = $10
+You picked  4 correct 0 times  --> Payoff = $0
+You picked  5 correct 0 times  --> Payoff = $0
+You picked  6 correct 0 times  --> Payoff = $0
+Total cost of tickets : $150
+Total money won       : $31
+Total profit / loss   : $-119
+Profit / loss percent :         -79.33%
+ *** Loser!  I hoped you learned something from this! ***
+
+ ******************** End Simulation ********************
+
+
